@@ -24,9 +24,6 @@ I'm a data science enthusiast, passionate about exploring the world of data and 
 
 ## ↗️ GitHub Stats
  
-<div align="center">
-  <div style="display: flex; flex-direction: row; justify-content: center;">
-    <img src="https://github-readme-stats.vercel.app/api?username=itsVarun20&show_icons=true&theme=tokyonight&hide_border=true" alt="Varun's GitHub Stats" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=itsVarun20&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  </div>
-</div>
+![Varun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=itsVarun20&show_icons=true&theme=tokyonight&hide_border=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=itsVarun20&theme=tokyonight&hide_border=true)<br/>
+
